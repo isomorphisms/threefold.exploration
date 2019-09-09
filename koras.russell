@@ -1,0 +1,18 @@
+@isomorphisms
+
+At XX:00 of her IAS talk _Mirror symmetry for the trefoil knot_, Emmy Moore uses the Koras-Russell 3-fold as an example of ______________________. Semon, as a symplectic topologist / Fukaya categorist, what ---if anything--- do you find interesting about this 3-fold? Do you think it's a good example of [what she sought to show]? Are there other good examples?
+
+
+Meanwhile let's play in Macaulay2 with the Koras-Russell 3-fold.
+
+Wikipedia defines it as $$a + a*a*b + c*c + d*d*d = 0$$. Let's mess around with this in Macaulay2.
+
+[Eisenbud techniques ch 2 of Macaulay2 book]
+
+
+WP doesn't define the Makar-Limanov invariant. Would you like to talk about it?
+
+
+WP's article on the Koras-Russell 3-fold says it was introduced as an exotic variety (not isomorphic to affine A^3) in the exploration of the Linearisation Conjecture.
+
+
